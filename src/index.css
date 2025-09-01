@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+  margin-top: 200px;
+  font-size: large;
+  font-family: sans-serif;
+
+}
+.todos-list{
+  margin-top: 20px;
+  line-height: 30px;
+  text-align: center;
+  left: -50px;
+  position: relative;
+}
+.input-section button {
+  margin-left: 20px;
+}
